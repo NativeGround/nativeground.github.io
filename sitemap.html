@@ -1,0 +1,23 @@
+---
+layout: single
+author_profile: false
+title: 'Sitemap'
+excerpt: " Topology is Destiny "
+search: false
+---
+
+<span style="font-variant: small-caps; font-size: 2.5rem;">Collections</span></br></br>
+{% for collection in site.collections %}
+  <span style="font-variant: small-caps; font-size: 2rem; letter-spacing: 0.15rem;">{{ collection.label }}</span>
+<ul>
+  {% for doc in collection.docs %}
+    <li>
+      Title : <a style="color: #000; font-size: 1.1rem;" href="{{ doc.url | prepend: site.baseurl }}"><span style="text-decoration: underline;">{{ doc.title }}</span></a></br>
+      Excerpt : {{ doc.excerpt }}</br>
+      Categories : {{ doc.categories }}</br>
+      Tags : {{ doc.tags }}</br>
+    </li>
+  {% endfor %}
+</ul>   
+{% endfor %}
+
