@@ -21,7 +21,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Real Basics - Sustainable Spaces; Traditional Superfoods; Intelligent Wearables.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nativeground.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nativegroundxyz
 github_username:  nativeground
 
