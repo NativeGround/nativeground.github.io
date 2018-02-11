@@ -5,9 +5,9 @@ date:   2018-01-30 23:08:44 +0530
 categories: jekyll, update
 excerpt: "No excerpt"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/spaces.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: NASA, Patrick Fore on Unsplash"
   cta_label: "More Info"
   cta_url: "https://unsplash.com"
 search: true
