@@ -3,7 +3,8 @@ layout: single
 author_profile: false
 title: 'Sitemap'
 excerpt: " Topology is Destiny "
-search: true
+search: false
+toc: true
 sidebar:
   nav: "live"
 ---
@@ -14,12 +15,13 @@ sidebar:
 <ul>
   {% for doc in collection.docs %}
     <li>
-      Title : <a style="color: #000; font-size: 1.1rem;" href="{{ doc.url | prepend: site.baseurl }}"><span style="text-decoration: underline;">{{ doc.title }}</span></a></br>
-      Excerpt : {{ doc.excerpt }}</br>
+      <a style="color: #000; font-size: 1.1rem;" href="{{ doc.url | prepend: site.baseurl }}"><span style="text-decoration: underline;">{{ doc.title }}</span></a></br>
+      {{ doc.excerpt }}</br>
       Categories : {{ doc.categories }}</br>
       Tags : {{ doc.tags }}</br>
     </li>
   {% endfor %}
 </ul>   
 {% endfor %}
+---
 

@@ -12,6 +12,7 @@ excerpt: "Location, Nutrition, Topology"
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
 search: true
+toc: true
 sidebar:
   nav: "live"
 ---
@@ -29,6 +30,8 @@ Landscape by Patrick Fore
 Palm Leaves by Scott Webb
 Double Rope by Gwen Weustink
 Yarn by Oscar Aguilar
+Spices by Pratiksha Mohanty
+Avacados by Nur Afni Setiyaningrum
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].

@@ -4,12 +4,6 @@ title:  "Social"
 excerpt: '*'
 date:   2018-01-30 23:08:44 +0530
 categories: jekyll update
-header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  #cta_label: "More Info"
-  #cta_url: "https://unsplash.com"
 search: true
 sidebar:
   nav: "live"
