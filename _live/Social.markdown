@@ -11,7 +11,8 @@ header:
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
 search: true
-
+sidebar:
+  nav: "live"
 ---
 <style>
 ul.socialicons {

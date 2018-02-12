@@ -12,7 +12,8 @@ excerpt: "Location, Nutrition, Topology"
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
 search: true
-
+sidebar:
+  nav: "live"
 ---
 
 This site is generated using Jekyll with the minimalmistakes theme applied

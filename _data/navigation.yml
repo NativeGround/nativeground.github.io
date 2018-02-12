@@ -1,8 +1,21 @@
 # main links
 main:
   - title: "Sustainable spaces"
-    url: /live/SustainableSpaces.html
+    url: /concepts/SustainableSpaces.html
   - title: "Traditional superfoods"
-    url: /live/TraditionalSuperfoods.html
+    url: /concepts/TraditionalSuperfoods.html
   - title: "Intelligent wearables"
-    url: /live/IntelligentWearables.html
+    url: /concepts/IntelligentWearables.html
+
+# live links
+live:
+  - title: "Site"
+    children:
+      - title: "Credits"
+        url: /live/credits.html
+      - title: "Sitemap"
+        url: /live/sitemap.html
+      - title: "Social"
+        url: /live/Social.html
+      - title: "Contact"
+        url: /live/contact.html
