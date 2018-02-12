@@ -30,9 +30,11 @@ read_time: true
 search: true
 
 collections:
-  live:
+  concepts:
     output: true
 #    permalink: /:collection/:path/
+  live:
+    output: true
 
 # Front Matter
 

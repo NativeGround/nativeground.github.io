@@ -11,7 +11,7 @@ excerpt: "Location, Nutrition, Topology"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   #cta_label: "More Info"
   #cta_url: "https://unsplash.com"
-#search: true
+search: true
 
 ---
 

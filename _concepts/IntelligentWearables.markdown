@@ -2,7 +2,7 @@
 layout: single
 title:  "Intelligent Wearables"
 date:   2018-01-30 23:08:44 +0530
-categories: concept, live
+categories: concept
 tags: concept
 excerpt: "Fibers, Strands, Weaves"
 header:
